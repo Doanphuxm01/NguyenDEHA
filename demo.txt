@@ -3,3 +3,4 @@ them chuc nang login
 them chuc nang logout
 release add edit file
 hotfix edit file  
+edit file sever
